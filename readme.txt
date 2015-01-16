@@ -1,0 +1,2 @@
+This script automates the quering  of a  Redshift instance that contains data on stations that have been created. 
+It then downloads the data from the RD instance and uploads the data to the DW. This way the DW contains the most up to date data on stations.
